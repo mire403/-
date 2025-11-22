@@ -43,17 +43,31 @@ python spam_classifier.py
 
 运行结束后将在项目根目录生成（示例）图像文件：
 
+![image](https://github.com/mire403/Spam-Message-Classification-System/blob/main/ham_spam/%E7%A4%BA%E4%BE%8B%E8%BE%93%E5%87%BA/BoW%2BNaiveBayes_%E6%B7%B7%E6%B7%86%E7%9F%A9%E9%98%B5.png)
+
 BoW+NaiveBayes_混淆矩阵.png
+
+![image](https://github.com/mire403/Spam-Message-Classification-System/blob/main/ham_spam/%E7%A4%BA%E4%BE%8B%E8%BE%93%E5%87%BA/TFIDF%2BNaiveBayes_%E6%B7%B7%E6%B7%86%E7%9F%A9%E9%98%B5.png)
 
 TFIDF+NaiveBayes_混淆矩阵.png
 
+![image](https://github.com/mire403/Spam-Message-Classification-System/blob/main/ham_spam/%E7%A4%BA%E4%BE%8B%E8%BE%93%E5%87%BA/TFIDF%2BLogisticRegression_%E6%B7%B7%E6%B7%86%E7%9F%A9%E9%98%B5.png)
+
 TFIDF+LogisticRegression_混淆矩阵.png
+
+![image](https://github.com/mire403/Spam-Message-Classification-System/blob/main/ham_spam/%E7%A4%BA%E4%BE%8B%E8%BE%93%E5%87%BA/%E6%A8%A1%E5%9E%8B%E5%87%86%E7%A1%AE%E7%8E%87%E5%AF%B9%E6%AF%94%E6%9F%B1%E7%8A%B6%E5%9B%BE.png)
 
 模型准确率对比柱状图.png
 
+![image](https://github.com/mire403/Spam-Message-Classification-System/blob/main/ham_spam/%E7%A4%BA%E4%BE%8B%E8%BE%93%E5%87%BA/%E6%A8%A1%E5%9E%8BROC%E6%9B%B2%E7%BA%BF%E6%AF%94%E8%BE%83.png)
+
 模型ROC曲线比较.png
 
+![image](https://github.com/mire403/Spam-Message-Classification-System/blob/main/ham_spam/%E7%A4%BA%E4%BE%8B%E8%BE%93%E5%87%BA/%E6%AD%A3%E5%B8%B8%E7%9F%AD%E4%BF%A1%E9%AB%98%E9%A2%91%E8%AF%8D%E4%BA%91.png)
+
 正常短信高频词云.png
+
+![image](https://github.com/mire403/Spam-Message-Classification-System/blob/main/ham_spam/%E7%A4%BA%E4%BE%8B%E8%BE%93%E5%87%BA/%E5%9E%83%E5%9C%BE%E7%9F%AD%E4%BF%A1%E9%AB%98%E9%A2%91%E8%AF%8D%E4%BA%91.png)
 
 垃圾短信高频词云.png
 
