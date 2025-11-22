@@ -81,3 +81,8 @@ ROC 曲线与 AUC：衡量模型整体判别能力
 若要调整模型或超参数，请修改 spam_classifier.py 中对应段落（如 CountVectorizer / TfidfVectorizer 参数、LogisticRegression(max_iter=...) 等）。
 
 若数据量较大，建议在向量化和模型训练时使用更高效的稀疏存储或切换到基于深度学习的方法（如预训练语言模型）进行扩展。
+
+## ⭐ Star Support
+
+如果你觉得这个项目对你有帮助，请给仓库点一个 ⭐ Star！
+你的鼓励是我继续优化此项目的最大动力 😊
